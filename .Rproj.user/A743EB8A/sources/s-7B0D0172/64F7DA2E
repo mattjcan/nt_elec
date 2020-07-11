@@ -1,0 +1,32 @@
+{
+    "id": "64F7DA2E",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1594461870048.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "tpp",
+        "caption": "tpp",
+        "totalObservations": 26,
+        "displayedObservations": 26,
+        "variables": 10,
+        "cacheKey": "4395D976",
+        "object": "tpp",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=tpp&cache_key=4395D976&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7311146993654195570,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594461870048,
+    "read_only": false,
+    "read_only_alternatives": []
+}

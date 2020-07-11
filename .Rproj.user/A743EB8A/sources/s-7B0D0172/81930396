@@ -1,0 +1,24 @@
+{
+    "id": "81930396",
+    "path": "~/git/state_coal/state_coal.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1594461342288.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "280,16",
+        "scrollLine": "274"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1594460189,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594460189,
+    "read_only": false,
+    "read_only_alternatives": []
+}
